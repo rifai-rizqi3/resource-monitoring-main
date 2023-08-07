@@ -1,0 +1,5 @@
+---
+# defaults file for alertmanager
+alertmanager_config_dir: /etc/alertmanager
+telegram_bot_token: xxxx
+telegram_bot_chatid: -xxxx
